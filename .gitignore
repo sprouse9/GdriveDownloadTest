@@ -3,4 +3,5 @@ archive/
 .ipynb_checkpoints/
 runs/
 *.zip
+*.pt
 dataset_updated.yaml
